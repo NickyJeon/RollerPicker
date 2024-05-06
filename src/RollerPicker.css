@@ -1,0 +1,25 @@
+/* Styling for the title element */
+.title {
+  font-weight: bold; /* Making the text bold */
+  color: pink; /* Setting the text color to pink */
+}
+
+/* Styling for the container element */
+.container {
+  display: flex; /* Using flexbox for layout */
+  flex-direction: column; /* Arranging child elements in a column */
+  align-items: center; /* Centering child elements horizontally */
+}
+
+/* Styling for buttons */
+button {
+  background-color: pink; /* Setting the background color of buttons to pink */
+  margin: 5px; /* Adding a margin of 5 pixels around buttons */
+}
+
+/* Styling for text with the bold-green class */
+.bold-green {
+  font-weight: bold; /* Making the text bold */
+  color: green; /* Setting the text color to green */
+}
+
